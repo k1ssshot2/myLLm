@@ -2,10 +2,10 @@
 
 1. Start virtual machine
 
- ```
+  ```
   $ python -m venv venv
   $ venv\Scripts\activate
- ```
+  ```
 
 2. Install the requirements
 
