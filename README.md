@@ -18,3 +18,7 @@
    ```
    streamlit run app.py
    ```
+
+SPDX-FileCopyrightText: © 2025 Lee Mingi
+
+SPDX-License-Identifier: Apache-2.0
